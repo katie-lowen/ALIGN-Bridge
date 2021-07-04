@@ -1,0 +1,41 @@
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.004000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.005000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.006000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901 
+marilyn@MacBook-Pro ProblemSet1 % cd "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/" && gcc InsertionSort.c -o InsertionSort && "/Users/marilyn/Documents/CS/NEU/2021Spring Semester/CS 5008 Vancouver/Github Private Repo/CS5008_Meilin-Liu/ProblemSet1/"InsertionSort
+Array before sorting: 1 20 2 3 40 23 53 12 4 5 22 10 6 7 9 15 85 19 8 21 95 33 76 44 8 102 33 76 42 55 88 22 11 901 74 23 62 12 54 79 84 59 28 66 1 7 25 98 62 111 
+time for Insertion_Sort_the_unsorted_input: 0.014000 sec.
+Array after insertion sorting: 1 1 2 3 4 5 6 7 7 8 8 9 10 11 12 12 15 19 20 21 22 22 23 23 25 28 33 33 40 42 44 53 54 55 59 62 62 66 74 76 76 79 84 85 88 95 98 102 111 901
+
+Time average for 10 times sorting input array with size 50 is: 0.0065 second
