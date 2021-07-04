@@ -1,2 +1,0 @@
-# Group010
-NEU Group 010 CS5008
